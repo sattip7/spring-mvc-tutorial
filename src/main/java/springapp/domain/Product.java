@@ -3,7 +3,7 @@ package springapp.domain;
 import java.io.Serializable;
 
 public class Product implements Serializable {
-    private Sting description;
+    private String description;
     private Double price;
     private int id;
 
