@@ -5,3 +5,4 @@ CREATE TABLE products (
 );
 
 CREATE INDEX products_description ON products(description);
+//
